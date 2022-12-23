@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/vendor
+/composer.json
+/composer.lock
 
 # testing
 /coverage
